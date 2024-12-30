@@ -1,0 +1,4 @@
+Example: v1.3e
+First number: Main version (Very big changes. Breakthrough discovery in code)
+Second number: Minor Version (Big changes. New apps, features ect.)
+Final character (Letter): More stable A--e--I--o--U Less stable
